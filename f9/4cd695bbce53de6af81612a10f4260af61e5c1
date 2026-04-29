@@ -1,0 +1,23 @@
+eslint-rules/no-bare-root-href.js
+  8734dcdcd3156f90 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "f94cd695bbce53de6af81612a10f4260af61e5c1",
+  "prompts": {
+    "8734dcdcd3156f90": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19393857-3204-44b9-bffb-5ff5b8fe3c85",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ergon Copeland",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 2,
+      "accepted_lines": 526,
+      "overriden_lines": 0
+    }
+  }
+}
