@@ -1,0 +1,23 @@
+eslint-rules/.eslintrc.js
+  8734dcdcd3156f90 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "6d59f411af21b315409b9c6de324ff741a232acf",
+  "prompts": {
+    "8734dcdcd3156f90": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19393857-3204-44b9-bffb-5ff5b8fe3c85",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ergon Copeland",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 496,
+      "overriden_lines": 0
+    }
+  }
+}
