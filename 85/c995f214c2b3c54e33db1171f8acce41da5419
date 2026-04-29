@@ -1,0 +1,33 @@
+app/pkg/web/context.go
+  8734dcdcd3156f90 546-552
+app/middlewares/user.go
+  8734dcdcd3156f90 75,77
+app/handlers/signin.go
+  8734dcdcd3156f90 397
+app/handlers/signup.go
+  8734dcdcd3156f90 144
+app/middlewares/tenant.go
+  8734dcdcd3156f90 83,130,132
+app/handlers/oauth.go
+  8734dcdcd3156f90 34,40,145,151
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "85c995f214c2b3c54e33db1171f8acce41da5419",
+  "prompts": {
+    "8734dcdcd3156f90": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19393857-3204-44b9-bffb-5ff5b8fe3c85",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ergon Copeland",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 11,
+      "accepted_lines": 2514,
+      "overriden_lines": 0
+    }
+  }
+}
