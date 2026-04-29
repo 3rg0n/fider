@@ -1,0 +1,25 @@
+public/services/navigator.spec.ts
+  8734dcdcd3156f90 1-74
+public/components/common/Link.spec.tsx
+  8734dcdcd3156f90 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "811763664ce1a1b2c2d8eb9e198af80d198c3dd2",
+  "prompts": {
+    "8734dcdcd3156f90": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19393857-3204-44b9-bffb-5ff5b8fe3c85",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ergon Copeland",
+      "messages": [],
+      "total_additions": 142,
+      "total_deletions": 0,
+      "accepted_lines": 634,
+      "overriden_lines": 0
+    }
+  }
+}
